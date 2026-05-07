@@ -18,11 +18,12 @@ Pick the codename matching your distribution and run:
 
 ```bash
 sudo install -d /etc/apt/keyrings
-curl -fsSL https://lolcatpp.github.io/apt/pubkey.gpg | sudo tee /etc/apt/keyrings/lolcatpp.asc > /dev/null
-
-# Replace <codename> with trixie, noble, or plucky
-echo "deb [signed-by=/etc/apt/keyrings/lolcatpp.asc] https://lolcatpp.github.io/apt <codename> main" \
+. /etc/os-release && \
+    CODENAME="${UBUNTU_CODENAME:-$VERSION_CODENAME}" && \
+    echo "deb [signed-by=/etc/apt/keyrings/lolcatpp.asc] https://lolcatpp.github.io/apt $CODENAME main" \
     | sudo tee /etc/apt/sources.list.d/lolcatpp.list
+
+curl -fsSL https://lolcatpp.github.io/apt/pubkey.gpg | sudo tee /etc/apt/keyrings/lolcatpp.asc > /dev/null
 
 sudo apt update
 sudo apt install lolcat++
