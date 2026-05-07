@@ -20,7 +20,7 @@ Pick the codename matching your distribution and run:
 sudo install -d /etc/apt/keyrings
 . /etc/os-release && \
     CODENAME="${UBUNTU_CODENAME:-$VERSION_CODENAME}" && \
-    echo "deb [signed-by=/etc/apt/keyrings/lolcatpp.asc] https://lolcatpp.github.io/apt $CODENAME main" \
+    echo "deb [arch=amd64,arm64 signed-by=/etc/apt/keyrings/lolcatpp.asc] https://lolcatpp.github.io/apt $CODENAME main" \
     | sudo tee /etc/apt/sources.list.d/lolcatpp.list
 
 curl -fsSL https://lolcatpp.github.io/apt/pubkey.gpg | sudo tee /etc/apt/keyrings/lolcatpp.asc > /dev/null
