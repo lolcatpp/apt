@@ -1,0 +1,17 @@
+Package: lolcat++
+Architecture: amd64
+Conflicts: lolcat
+Depends: libboost-program-options1.83.0 (>= 1.83.0), libc6 (>= 2.34), libgcc-s1 (>= 4.3), libstdc++6 (>= 14)
+Priority: optional
+Section: utils
+Filename: pool/main/l/lolcat++/lolcat++_2.5.3~trixie_amd64.deb
+Size: 102248
+SHA256: 5d6b4afe2722402f8066550897e78bbe4acebb7ae7131c0cea037258f53a9673
+SHA1: 222a682e64ba0117e026927aae2741643c36f731
+MD5sum: df2430005e29e8f76b7d40a4eae1536e
+Description: Concatenate and rainbow-colorize files (C++ port of lolcat)
+Homepage: https://github.com/lolcatpp/lolcatpp
+Maintainer: Love Billenius <lovebillenius@disroot.org>
+Version: 2.5.3~trixie
+Installed-Size: 272
+

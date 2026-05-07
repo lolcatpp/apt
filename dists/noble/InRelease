@@ -1,0 +1,30 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: lolcatpp
+Label: lolcat++ APT Repository
+Suite: stable
+Codename: noble
+Date: Thu, 07 May 2026 09:16:05 UTC
+Architectures: amd64
+Components: main
+Description: lolcat++ packages for Ubuntu 24.04 (Noble Numbat)
+MD5Sum:
+ 40787656f3f23b6750bb0c69b66e7194 653 main/binary-amd64/Packages
+ 4763d8a1fecd34411e2f2455c1784189 461 main/binary-amd64/Packages.gz
+ 61909189c4d3da888d08f4d24187d32b 163 main/binary-amd64/Release
+SHA1:
+ bf5460ec933a1b1b218ab4f4387fbe3dcdc6bdad 653 main/binary-amd64/Packages
+ 6d2ebd743ed381526a3fae9f0c4d7372c91185a7 461 main/binary-amd64/Packages.gz
+ 0f6eb85e20bf14eaded82ce8377e26f6590bb99f 163 main/binary-amd64/Release
+SHA256:
+ 76698e187a31469955530fd7fa3b35cd94ef1eeeb48c7dae384d5b963bb6fa20 653 main/binary-amd64/Packages
+ 176ff0af192d8de7e82dd8c40cab9959c4c6fd98a8928ca2a51ddca732e888ce 461 main/binary-amd64/Packages.gz
+ ef1c9a3440f16ff022b297b0d802f452921978ec816fe18ce843a51a2e77ca6a 163 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQS/LU3XfwdTPGI8nJz+zAY3T30lAQUCafxYVQAKCRD+zAY3T30l
+AXZXAQDhfrk7rnoGzlqO+2DJHt7E2R/1XGjn0677S//jOoaVtwEAknkcdYUVjMlc
+dCEhKURQCV6Dy4YacGapzYXzuSMWyQo=
+=YXSZ
+-----END PGP SIGNATURE-----

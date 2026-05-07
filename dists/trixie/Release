@@ -1,0 +1,20 @@
+Origin: lolcatpp
+Label: lolcat++ APT Repository
+Suite: stable
+Codename: trixie
+Date: Thu, 07 May 2026 09:16:05 UTC
+Architectures: amd64
+Components: main
+Description: lolcat++ packages for Debian 13 (Trixie)
+MD5Sum:
+ 6d3b348c132d57888c5acca6689beacb 654 main/binary-amd64/Packages
+ 4436651278b4fd47c7572600f6c6224e 459 main/binary-amd64/Packages.gz
+ 9a83bb6d1963631969524f02e9cb24e9 154 main/binary-amd64/Release
+SHA1:
+ cc58b5f5130b577d466fdb3a8b8dd9d8fe7f221d 654 main/binary-amd64/Packages
+ 363aba52b534caf78d68b93d0a1b7140f66a0ead 459 main/binary-amd64/Packages.gz
+ b379087e99a4fbf4ae21f57f465f3580f17376bb 154 main/binary-amd64/Release
+SHA256:
+ e7af25200d2d0f97480f425ff1151ea3a6601faa124c03107fb32ca31e2a588b 654 main/binary-amd64/Packages
+ 81f8a4e79af1e639e674f9613e316a36c6491ca04fa7f33813bc2e8e16edc5e0 459 main/binary-amd64/Packages.gz
+ 4bcd53ad4a57ab9814d34cff7bc8b0fc6ffd497ca543adec617d51e1b1d240cb 154 main/binary-amd64/Release

@@ -1,0 +1,30 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: lolcatpp
+Label: lolcat++ APT Repository
+Suite: stable
+Codename: plucky
+Date: Thu, 07 May 2026 09:16:05 UTC
+Architectures: amd64
+Components: main
+Description: lolcat++ packages for Ubuntu 25.04 (Plucky Puffin)
+MD5Sum:
+ 9acde730f1cbb29c867190c7b5aa7755 654 main/binary-amd64/Packages
+ 341a313e8a8175867aff249bca446710 458 main/binary-amd64/Packages.gz
+ 897a163f99aee8d06dbf3c715057b945 164 main/binary-amd64/Release
+SHA1:
+ 12741822314d1565920ae0116e8aced531570069 654 main/binary-amd64/Packages
+ 304839a9804e26a89329d8e28ec5b3e7cb36bbbe 458 main/binary-amd64/Packages.gz
+ 4094cd99304b5bed6903b91e33c29f41764e80a3 164 main/binary-amd64/Release
+SHA256:
+ cdadc4e393cefb2291f0c36ed04bf4c9a393ba6fe8c4b4b0fd8b289c1b84d7ac 654 main/binary-amd64/Packages
+ 97dbb55f0bdccaafa4f5e1c74b527ec2ab5790a5dd61c59328031250a0680641 458 main/binary-amd64/Packages.gz
+ e4568ffc740f8e5a1b10dff4e9367c7f42e690af5883734c0ce0fd23bfc21f49 164 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQS/LU3XfwdTPGI8nJz+zAY3T30lAQUCafxYVQAKCRD+zAY3T30l
+Ae1hAP0QWaegTY+1s+bQno0C2Bj5FILiJXIgtUG0SWPu0YkfOgD+MyKeIYOvjtu+
+Pm/WDPal/SHfxCSsoOOAIb70wfdVvAE=
+=WPSr
+-----END PGP SIGNATURE-----
