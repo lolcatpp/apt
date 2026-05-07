@@ -5,35 +5,35 @@ Origin: lolcatpp
 Label: lolcat++ APT Repository
 Suite: stable
 Codename: plucky
-Date: Thu, 07 May 2026 10:38:59 UTC
+Date: Thu, 07 May 2026 12:04:16 UTC
 Architectures: amd64 arm64
 Components: main
 Description: lolcat++ packages for Ubuntu 25.04 (Plucky Puffin)
 MD5Sum:
- 2573e6c1c8feed42ad57bb60f7763f1c 654 main/binary-amd64/Packages
- 22a3efcad79b3208970e73b46c48cbf8 460 main/binary-amd64/Packages.gz
+ 461961cc51b7b15941da5b44aeb51280 654 main/binary-amd64/Packages
+ 7b2772df7294a4b1834847d352727749 457 main/binary-amd64/Packages.gz
  897a163f99aee8d06dbf3c715057b945 164 main/binary-amd64/Release
- 471f136d32fc58bbbb9b2c1467deeeb6 654 main/binary-arm64/Packages
- 6e5849575e880455c8d87a0655188a34 458 main/binary-arm64/Packages.gz
+ 8b824bc459b3bcf7c92d01ed43e683e1 654 main/binary-arm64/Packages
+ 1d47ed18d28779c91698421dc8801ba7 460 main/binary-arm64/Packages.gz
  ea590260499fab07a03907cc63449a9a 164 main/binary-arm64/Release
 SHA1:
- 3ca4aa36a9bd0890414e864d011e99ecafcc033e 654 main/binary-amd64/Packages
- 58739e0549adab46f7ffba8ee9e863f2fde15e1a 460 main/binary-amd64/Packages.gz
+ d174816870b2043601a467a35049512053afd4a1 654 main/binary-amd64/Packages
+ f3b366447ef1a300aefabcecc57e0774051a7aa5 457 main/binary-amd64/Packages.gz
  4094cd99304b5bed6903b91e33c29f41764e80a3 164 main/binary-amd64/Release
- 2da6d00ebf5772e89e6a70936abebf6c844eb4f4 654 main/binary-arm64/Packages
- a84f3fefc9bd020434d98f6dc02e5a291c49cecc 458 main/binary-arm64/Packages.gz
+ 5d4be7ea44897a55e25fd7d224c463b8f0f744a6 654 main/binary-arm64/Packages
+ f956ceefffc11b17373a55075571eb1ca9ace4ff 460 main/binary-arm64/Packages.gz
  006f0b39e2baab718cc084ed0a23a49c20ffe3dc 164 main/binary-arm64/Release
 SHA256:
- 97326945233ff3f3dfed001844917be5ebb33f7fa30db27b7146d61dccdf8f4c 654 main/binary-amd64/Packages
- dd374928e1d7c8d375ec6aaeb16511fb9478cb9447096886a3cc9c60adca793c 460 main/binary-amd64/Packages.gz
+ 762e5516dca9e0ba87e39d7f1230c9d758a900d155b35d3cff25851e4372d9e6 654 main/binary-amd64/Packages
+ 8d8af9407f34beceaac6cf04c125f7310698e769852d408696241a7bcee0750e 457 main/binary-amd64/Packages.gz
  e4568ffc740f8e5a1b10dff4e9367c7f42e690af5883734c0ce0fd23bfc21f49 164 main/binary-amd64/Release
- 663e849f932b2a72e33a4f46febfac7f6eef3bb67dd5be2db8fb808eeb88eeb7 654 main/binary-arm64/Packages
- 92d8c37b0c00b159553120500b42e96475387cd66a58d2853024729baa3f7a38 458 main/binary-arm64/Packages.gz
+ 301576014c82c32a01d0db3f09e74d68be61a8f3c9d7b5aaa124eabf44b60fb9 654 main/binary-arm64/Packages
+ 092aa25639a795d48217d188a92f62e5cbf6a82e6833bdb7ebb3125263826423 460 main/binary-arm64/Packages.gz
  6da80a6595f26175d49d49ef6dc08c49d908091823ab36870857d3f870d07088 164 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQS/LU3XfwdTPGI8nJz+zAY3T30lAQUCafxrwwAKCRD+zAY3T30l
-AZnyAQDX9IvRhBKxwnnKDiDIjEWH4rFO7YER/A/emVgqMsBmtAD/dwQlvq1Pan6R
-2mWIeJPPadfZeE8cx02zYEpYyHwp/gE=
-=JtO4
+iHUEARYKAB0WIQS/LU3XfwdTPGI8nJz+zAY3T30lAQUCafx/wAAKCRD+zAY3T30l
+AU8dAP9ym+KHP9VBMNjuArl9GyqZvwc2W7bMbA/02lh6+gwnHAEAsclBvIFEmWI5
+sWBjfNg9zVDZHaZGhFLMYEFQXnOWkAA=
+=s7fb
 -----END PGP SIGNATURE-----

@@ -2,28 +2,28 @@ Origin: lolcatpp
 Label: lolcat++ APT Repository
 Suite: stable
 Codename: trixie
-Date: Thu, 07 May 2026 10:38:59 UTC
+Date: Thu, 07 May 2026 12:04:16 UTC
 Architectures: amd64 arm64
 Components: main
 Description: lolcat++ packages for Debian 13 (Trixie)
 MD5Sum:
- ae6da52718f7c2f07a37a3a3ca4ca0c6 654 main/binary-amd64/Packages
- 9626b099912d884828c451c2049be8cb 459 main/binary-amd64/Packages.gz
+ 88252f9baa7bd1d21d2cd847a0670556 654 main/binary-amd64/Packages
+ 1eaa5f6cbcdf9780714e0b375412f2c2 459 main/binary-amd64/Packages.gz
  9a83bb6d1963631969524f02e9cb24e9 154 main/binary-amd64/Release
- d6abcb2febfb58494d23574658a9c849 653 main/binary-arm64/Packages
- a1a44512c94ecad2ce1ddef893eb5dcb 459 main/binary-arm64/Packages.gz
+ e12d080f09881b6c705bea35e0e253ce 653 main/binary-arm64/Packages
+ e6bb38ea14dc8e6fa4d82820e7040ed3 459 main/binary-arm64/Packages.gz
  183968564fcf0bbd6dc7bc4411657980 154 main/binary-arm64/Release
 SHA1:
- cfcba44cb556153e1a9c382bc722c06a241f4777 654 main/binary-amd64/Packages
- 65107335b1d1a3fb95b89234d4da22b6eb5964d9 459 main/binary-amd64/Packages.gz
+ aa3ef0d60d4a9b3de9c18c8d401602f0b04468bc 654 main/binary-amd64/Packages
+ 8eb45c6c825f9bf8a69a00cacc1ac702078d4101 459 main/binary-amd64/Packages.gz
  b379087e99a4fbf4ae21f57f465f3580f17376bb 154 main/binary-amd64/Release
- 97254e05a4a98129182942e160112d194d5bb772 653 main/binary-arm64/Packages
- fbb80258cb66109e3cbc31f90a9323ea66d6d30a 459 main/binary-arm64/Packages.gz
+ e56a75e3ec7729155a13aa1fd1d30603a6d39b86 653 main/binary-arm64/Packages
+ f7d51f762a27cc7b894b95f23aaad155ebf89da7 459 main/binary-arm64/Packages.gz
  e689fa5ec9d86a28922caaea7bb4c988e613c140 154 main/binary-arm64/Release
 SHA256:
- 524a211c93697e21eb63dc1b1a4efd3c9de2c9ad0c0f3eff9d638d1bf6638e78 654 main/binary-amd64/Packages
- 9dc68c677ba9be5de1009b9f5ca676ac6c4508a4787888838786700a782c4450 459 main/binary-amd64/Packages.gz
+ f35f2a32f672cc96e866fd7fee48e24126f7c5b099745f7d163422176826a622 654 main/binary-amd64/Packages
+ be5c2d6fa99d45ed99661efae14194cfd6e2b84604597359b0cf2734020ed6a1 459 main/binary-amd64/Packages.gz
  4bcd53ad4a57ab9814d34cff7bc8b0fc6ffd497ca543adec617d51e1b1d240cb 154 main/binary-amd64/Release
- 7bc68771a16988145a42326f9c87bca0da507a6de4597a1eb7befe342c904600 653 main/binary-arm64/Packages
- 5fb97ac8dbad4b6c4e533b419ae043b911b645bd81fa2b49ad63ce072927f443 459 main/binary-arm64/Packages.gz
+ 76038c6edbf65b70b11ccb46940e193f853f5dadf1afc62ff18dd0b796d4727d 653 main/binary-arm64/Packages
+ af3809f21c50644ec2e46f417ffc7177240e1eca903fdd8472b999a1f8b5ce46 459 main/binary-arm64/Packages.gz
  8800bdfa531aaf418e1c0a5e8fcd00c763bd8bb1d1e2954d8610d82d7a7fbdb3 154 main/binary-arm64/Release
