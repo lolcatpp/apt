@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: lolcatpp
+Label: lolcat++ APT Repository
+Architecture: arm64
+Description: lolcat++ packages for Ubuntu 24.04 (Noble Numbat)

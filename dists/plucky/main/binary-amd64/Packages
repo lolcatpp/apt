@@ -4,14 +4,14 @@ Conflicts: lolcat
 Depends: libboost-program-options1.83.0 (>= 1.83.0), libc6 (>= 2.34), libgcc-s1 (>= 4.3), libstdc++6 (>= 14)
 Priority: optional
 Section: utils
-Filename: pool/main/l/lolcat++/lolcat++_2.5.3~plucky_amd64.deb
-Size: 105220
-SHA256: 16828d1cfd82992bd8ce8bec1b09a4255f0ac9aec587e527d75ad1e9f948cdaa
-SHA1: 81b2c580312daccdda88c8509b7368635bab50c2
-MD5sum: fd7205edb8b0276960a930d23f206315
+Filename: pool/main/l/lolcat++/lolcat++_2.5.4~plucky_amd64.deb
+Size: 106270
+SHA256: 74266f5544e6f7144f170b23afc6bb3c3e0fad8fb7d296bb607f83aecd6c680e
+SHA1: 4f95a44d2392c8c734e1fd2db139f7aa85eb7225
+MD5sum: f0231c5171725f5c995d8bdd60076a0c
 Description: Concatenate and rainbow-colorize files (C++ port of lolcat)
 Homepage: https://github.com/lolcatpp/lolcatpp
 Maintainer: Love Billenius <lovebillenius@disroot.org>
-Version: 2.5.3~plucky
-Installed-Size: 287
+Version: 2.5.4~plucky
+Installed-Size: 301
 

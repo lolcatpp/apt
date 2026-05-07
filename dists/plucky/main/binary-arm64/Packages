@@ -1,0 +1,17 @@
+Package: lolcat++
+Architecture: arm64
+Conflicts: lolcat
+Depends: libboost-program-options1.83.0 (>= 1.83.0), libc6 (>= 2.34), libgcc-s1 (>= 4.5), libstdc++6 (>= 14)
+Priority: optional
+Section: utils
+Filename: pool/main/l/lolcat++/lolcat++_2.5.4~plucky_arm64.deb
+Size: 101102
+SHA256: c9ce0d2764ce082c08b739b5ff498e4d4b11e6eb05928a33c9c924a046893942
+SHA1: fa599a1f8cd845c393e26be484ede90cc2815421
+MD5sum: 7f277f03ad7474cd6e0e67b9ea924e03
+Description: Concatenate and rainbow-colorize files (C++ port of lolcat)
+Homepage: https://github.com/lolcatpp/lolcatpp
+Maintainer: Love Billenius <lovebillenius@disroot.org>
+Version: 2.5.4~plucky
+Installed-Size: 335
+

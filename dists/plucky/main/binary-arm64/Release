@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: lolcatpp
+Label: lolcat++ APT Repository
+Architecture: arm64
+Description: lolcat++ packages for Ubuntu 25.04 (Plucky Puffin)

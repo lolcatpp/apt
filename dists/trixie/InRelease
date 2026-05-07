@@ -5,26 +5,35 @@ Origin: lolcatpp
 Label: lolcat++ APT Repository
 Suite: stable
 Codename: trixie
-Date: Thu, 07 May 2026 09:16:05 UTC
-Architectures: amd64
+Date: Thu, 07 May 2026 10:38:59 UTC
+Architectures: amd64 arm64
 Components: main
 Description: lolcat++ packages for Debian 13 (Trixie)
 MD5Sum:
- 6d3b348c132d57888c5acca6689beacb 654 main/binary-amd64/Packages
- 4436651278b4fd47c7572600f6c6224e 459 main/binary-amd64/Packages.gz
+ ae6da52718f7c2f07a37a3a3ca4ca0c6 654 main/binary-amd64/Packages
+ 9626b099912d884828c451c2049be8cb 459 main/binary-amd64/Packages.gz
  9a83bb6d1963631969524f02e9cb24e9 154 main/binary-amd64/Release
+ d6abcb2febfb58494d23574658a9c849 653 main/binary-arm64/Packages
+ a1a44512c94ecad2ce1ddef893eb5dcb 459 main/binary-arm64/Packages.gz
+ 183968564fcf0bbd6dc7bc4411657980 154 main/binary-arm64/Release
 SHA1:
- cc58b5f5130b577d466fdb3a8b8dd9d8fe7f221d 654 main/binary-amd64/Packages
- 363aba52b534caf78d68b93d0a1b7140f66a0ead 459 main/binary-amd64/Packages.gz
+ cfcba44cb556153e1a9c382bc722c06a241f4777 654 main/binary-amd64/Packages
+ 65107335b1d1a3fb95b89234d4da22b6eb5964d9 459 main/binary-amd64/Packages.gz
  b379087e99a4fbf4ae21f57f465f3580f17376bb 154 main/binary-amd64/Release
+ 97254e05a4a98129182942e160112d194d5bb772 653 main/binary-arm64/Packages
+ fbb80258cb66109e3cbc31f90a9323ea66d6d30a 459 main/binary-arm64/Packages.gz
+ e689fa5ec9d86a28922caaea7bb4c988e613c140 154 main/binary-arm64/Release
 SHA256:
- e7af25200d2d0f97480f425ff1151ea3a6601faa124c03107fb32ca31e2a588b 654 main/binary-amd64/Packages
- 81f8a4e79af1e639e674f9613e316a36c6491ca04fa7f33813bc2e8e16edc5e0 459 main/binary-amd64/Packages.gz
+ 524a211c93697e21eb63dc1b1a4efd3c9de2c9ad0c0f3eff9d638d1bf6638e78 654 main/binary-amd64/Packages
+ 9dc68c677ba9be5de1009b9f5ca676ac6c4508a4787888838786700a782c4450 459 main/binary-amd64/Packages.gz
  4bcd53ad4a57ab9814d34cff7bc8b0fc6ffd497ca543adec617d51e1b1d240cb 154 main/binary-amd64/Release
+ 7bc68771a16988145a42326f9c87bca0da507a6de4597a1eb7befe342c904600 653 main/binary-arm64/Packages
+ 5fb97ac8dbad4b6c4e533b419ae043b911b645bd81fa2b49ad63ce072927f443 459 main/binary-arm64/Packages.gz
+ 8800bdfa531aaf418e1c0a5e8fcd00c763bd8bb1d1e2954d8610d82d7a7fbdb3 154 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQS/LU3XfwdTPGI8nJz+zAY3T30lAQUCafxYVQAKCRD+zAY3T30l
-AZr5AP9dWHk22Zmo2kCv6u/yw4VW8sDquPG6NOxDH/5TTmMbsQEAj0d214671WPY
-qAGHXbuJJ9UvntzrLBFCMIbPewDzTQU=
-=Erud
+iHUEARYKAB0WIQS/LU3XfwdTPGI8nJz+zAY3T30lAQUCafxrwwAKCRD+zAY3T30l
+AeL6APsGx3ylya5VNHPJB1JZRl7lPBrLJ21rH/zqE9zj4e3Z/QEA1CpkoMctXdIj
+fz4ZyF+9/W0+2UuJL/JORXuDuATs0gc=
+=/W2n
 -----END PGP SIGNATURE-----

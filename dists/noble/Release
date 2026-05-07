@@ -2,19 +2,28 @@ Origin: lolcatpp
 Label: lolcat++ APT Repository
 Suite: stable
 Codename: noble
-Date: Thu, 07 May 2026 09:16:05 UTC
-Architectures: amd64
+Date: Thu, 07 May 2026 10:38:59 UTC
+Architectures: amd64 arm64
 Components: main
 Description: lolcat++ packages for Ubuntu 24.04 (Noble Numbat)
 MD5Sum:
- 40787656f3f23b6750bb0c69b66e7194 653 main/binary-amd64/Packages
- 4763d8a1fecd34411e2f2455c1784189 461 main/binary-amd64/Packages.gz
+ c4aebc36c455b139096ca936ca3cc4e9 653 main/binary-amd64/Packages
+ 189ecd7ae056233d753a07c22969c9d5 456 main/binary-amd64/Packages.gz
  61909189c4d3da888d08f4d24187d32b 163 main/binary-amd64/Release
+ efa4c23264c5b315fdc3c9ac19adb2ee 653 main/binary-arm64/Packages
+ 7445fcf2f963b2eba2a4c19c8940b4d3 457 main/binary-arm64/Packages.gz
+ c84ce526729ec3369ddf7983591d2936 163 main/binary-arm64/Release
 SHA1:
- bf5460ec933a1b1b218ab4f4387fbe3dcdc6bdad 653 main/binary-amd64/Packages
- 6d2ebd743ed381526a3fae9f0c4d7372c91185a7 461 main/binary-amd64/Packages.gz
+ 53e6821e4a1a2e059896c9651181db88c75c5849 653 main/binary-amd64/Packages
+ 2d70bd7d203c12adb69213dfd88cb6723e80f4c5 456 main/binary-amd64/Packages.gz
  0f6eb85e20bf14eaded82ce8377e26f6590bb99f 163 main/binary-amd64/Release
+ 8896e879f2b59ceaacc14b7c2a83bb5125608be2 653 main/binary-arm64/Packages
+ cbcb3774b678d8713e9f59711ff7223dbd9e97eb 457 main/binary-arm64/Packages.gz
+ ac7e1588d6d0a08f460411d8dd1b3c6400d260df 163 main/binary-arm64/Release
 SHA256:
- 76698e187a31469955530fd7fa3b35cd94ef1eeeb48c7dae384d5b963bb6fa20 653 main/binary-amd64/Packages
- 176ff0af192d8de7e82dd8c40cab9959c4c6fd98a8928ca2a51ddca732e888ce 461 main/binary-amd64/Packages.gz
+ cc99d6f4ddc6539b575ed8e8d7d324fed69529dfc7170a9a29a6820895c5d3c8 653 main/binary-amd64/Packages
+ 5439c5e6f85483f707f978a2fd27faea452c925b4cfef646d5f5bcc8bb1e904a 456 main/binary-amd64/Packages.gz
  ef1c9a3440f16ff022b297b0d802f452921978ec816fe18ce843a51a2e77ca6a 163 main/binary-amd64/Release
+ 93353c8c8454e3d3844f326cef32d05b783a0f0222119c6d33da9369af0574dd 653 main/binary-arm64/Packages
+ 8127b88850b40a7b59b6e2e9e2eaa6ec8fc435055dcd1a4037517c174c21b47f 457 main/binary-arm64/Packages.gz
+ 665d94dfab68525c5f0788ed276fe55906bd24ce3a3aa0783dd81dea337737a8 163 main/binary-arm64/Release
