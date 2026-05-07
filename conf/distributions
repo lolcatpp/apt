@@ -2,7 +2,7 @@ Origin: lolcatpp
 Label: lolcat++ APT Repository
 Codename: trixie
 Suite: stable
-Architectures: amd64
+Architectures: amd64 arm64
 Components: main
 Description: lolcat++ packages for Debian 13 (Trixie)
 SignWith: yes
@@ -11,7 +11,7 @@ Origin: lolcatpp
 Label: lolcat++ APT Repository
 Codename: noble
 Suite: stable
-Architectures: amd64
+Architectures: amd64 arm64
 Components: main
 Description: lolcat++ packages for Ubuntu 24.04 (Noble Numbat)
 SignWith: yes
@@ -20,7 +20,7 @@ Origin: lolcatpp
 Label: lolcat++ APT Repository
 Codename: plucky
 Suite: stable
-Architectures: amd64
+Architectures: amd64 arm64
 Components: main
 Description: lolcat++ packages for Ubuntu 25.04 (Plucky Puffin)
 SignWith: yes

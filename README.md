@@ -6,11 +6,11 @@ Hosted via GitHub Pages at <https://lolcatpp.github.io/apt/>.
 
 ## Supported distributions
 
-| Distribution | Codename |
-|---|---|
-| Debian 13 | `trixie` |
-| Ubuntu 24.04 LTS | `noble` |
-| Ubuntu 25.04 | `plucky` |
+| Distribution | Codename | Architectures |
+|---|---|---|
+| Debian 13 | `trixie` | amd64, arm64 |
+| Ubuntu 24.04 LTS | `noble` | amd64, arm64 |
+| Ubuntu 25.04 | `plucky` | amd64, arm64 |
 
 ## Installing
 
@@ -20,7 +20,7 @@ Pick the codename matching your distribution and run:
 sudo install -d /etc/apt/keyrings
 . /etc/os-release && \
     CODENAME="${UBUNTU_CODENAME:-$VERSION_CODENAME}" && \
-    echo "deb [arch=amd64 signed-by=/etc/apt/keyrings/lolcatpp.asc] https://lolcatpp.github.io/apt $CODENAME main" \
+    echo "deb [signed-by=/etc/apt/keyrings/lolcatpp.asc] https://lolcatpp.github.io/apt $CODENAME main" \
     | sudo tee /etc/apt/sources.list.d/lolcatpp.list
 
 curl -fsSL https://lolcatpp.github.io/apt/pubkey.gpg | sudo tee /etc/apt/keyrings/lolcatpp.asc > /dev/null
