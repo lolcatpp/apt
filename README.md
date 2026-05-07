@@ -6,11 +6,11 @@ Hosted via GitHub Pages at <https://lolcatpp.github.io/apt/>.
 
 ## Supported distributions
 
-| Distribution | Codename | Architectures |
-|---|---|---|
-| Debian 13 | `trixie` | amd64, arm64 |
-| Ubuntu 24.04 LTS | `noble` | amd64, arm64 |
-| Ubuntu 25.04 | `plucky` | amd64, arm64 |
+| Family | Versions                          | Architectures |
+| ------ | --------------------------------- | ------------- |
+| Debian | 13 (Trixie)                       | amd64, arm64  |
+| Ubuntu | 24.04 LTS (Noble), 25.04 (Plucky) | amd64, arm64  |
+| Mint   | LMDE 7 / 22 / 22.1 / 22.2 / 22.3  | amd64, arm64  |
 
 ## Installing
 
