@@ -1,0 +1,39 @@
+# lolcat++ APT Repository
+
+APT repository for [lolcat++](https://github.com/lolcatpp/lolcatpp) — a C++ port of lolcat.
+
+Hosted via GitHub Pages at <https://lolcatpp.github.io/apt/>.
+
+## Supported distributions
+
+| Distribution | Codename |
+|---|---|
+| Debian 13 | `trixie` |
+| Ubuntu 24.04 LTS | `noble` |
+| Ubuntu 25.04 | `plucky` |
+
+## Installing
+
+Pick the codename matching your distribution and run:
+
+```bash
+sudo install -d /etc/apt/keyrings
+curl -fsSL https://lolcatpp.github.io/apt/pubkey.gpg | sudo tee /etc/apt/keyrings/lolcatpp.asc > /dev/null
+
+# Replace <codename> with trixie, noble, or plucky
+echo "deb [signed-by=/etc/apt/keyrings/lolcatpp.asc] https://lolcatpp.github.io/apt <codename> main" \
+    | sudo tee /etc/apt/sources.list.d/lolcatpp.list
+
+sudo apt update
+sudo apt install lolcat++
+```
+
+## How packages get here
+
+Packages are built and published automatically by the
+[release workflow](https://github.com/lolcatpp/lolcatpp/blob/master/.github/workflows/release.yml)
+in the main repository when a new tag is pushed. Each supported distribution
+gets its own `.deb` built in a matching container, then `reprepro` adds it to
+the corresponding suite in this repository.
+
+The repository indexes are signed with the GPG key in `pubkey.gpg`.
